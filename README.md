@@ -1,2 +1,2 @@
 # 42Core
- Ertuğrul Soylu, Fatih Karatay, Berkay İnam, Salih Çakmak
+ Ertuğrul Soylu, Fatih Karatay, Berkay İnam, Salih Çakmak, Ahmet Can Özgökmen
