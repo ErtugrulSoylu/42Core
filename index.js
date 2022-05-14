@@ -3,7 +3,9 @@
 const express = require("express");
 const app = express();
 
+
 app.use(express.static("static"))
+app.use(express.static("pages"))
 
 app.get("/", function (req, res) {
   res.sendFile(__dirname + "/index.html");
@@ -15,7 +17,7 @@ app.get("/gittigidiyor", function(req, res) {
 })
 
 app.get("/sellerscan", function(req, res) {
-  res.sendFile(__dirname + "/sellerscan.html")
+  res.sendFile(__dirname + "/pages/sellerscan.html")
 })
 
 app.listen(1453, function () {
