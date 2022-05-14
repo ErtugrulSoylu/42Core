@@ -104,7 +104,8 @@
             alertify.error("Geçerli adres girin..");
           }else {
             alertify.set("notifier", "position", "top-right");
-            alertify.success("Wallet connection success!\nRedirecting..");
+            alertify.success("Cüzdan bağlantısı başarılı!");
+            alertify.success("Yönlendiriliyor..");
             setTimeout(function () {
               window.location.replace("/gittigidiyor.html");
             }, 2000);
