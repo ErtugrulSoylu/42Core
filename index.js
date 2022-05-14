@@ -21,5 +21,5 @@ app.get("/sellerscan", function(req, res) {
 })
 
 app.listen(1453, function () {
-  console.log("Sunucu çalışıyor...");
+  console.log("Sunucu çalışıyor... Port: 1453");
 });
