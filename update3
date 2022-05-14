@@ -1,0 +1,65 @@
+SORUNLAR VE BULDUĞUMUZ ÇÖZÜMLER
+
+Hukuki Sorunlar;
+
+S-1: Mesafeli satışlarda uygulanacak politikalara uyulmaması
+S-2: Mesafeli satış politikalarının işletmelere ağır yükler yüklemesi
+S-3: Ürün hakkında müşteriye doğru bilgilendirme yapılmaması
+
+S-4 : Yüz yüze satış olmadığı için güvenin sağlanmasındaki zorluklar
+S-5 : Güvenlik ve gizlilik endişeleri
+S-6 : Evrensel kalite ve güvenlik/güvenilirlik standartlarının olmaması
+S-7: Sahte / hatalı / bozuk ürün satışı
+
+S-8: Satıcı bilerek ve isteyerek kusurlu ürün gönderimi yapmış olabilir ya da ürünü hiç göndermemiş olabilir
+S-9: Satıcı bilmeyerek kusurlu ürün gönderimi yapmış olabilir
+S-10: Satıcı bilmeyerek yanlış ürün gönderimi yapmış olabilir
+S-11: Satıcı siparişleri karıştırmış olabilir
+
+S-12: Kargo firması ürünü yanlış sınıflandırmış / tanımlamış olabilir
+S-13: Kargo firması ürünü hatalı transfer etmiş olabilir
+S-14: Kargo firması ürünü kaybetmiş olabilir
+S-15: Kargo firması ürünü alıcıdan başka bir kişiye teslim etmiş olabilir
+
+S-16: Kargo firması ürünün taşınması ya da teslimatı esnasında ürüne zarar vermiş olabilir
+S-17: Satıcılar arasındaki Rekabet Nasıl Etkilenecek
+S-18: Yurt Dışından Yurtiçine giren yatırımcı Güvenini nasıl doğrulayacak?
+S-19: Kendi Kendine Satıcı yaratıp piyasayı manipüle etmeye çalışan satıcılar nasıl engellenecek?
+S-20: Yeni Çıkan Kategorilerde Ürün değerlendirmesi nasıl olacak?
+
+/*Cözümler : Satıcı Platform Değişikliğine gittiğinde Verilerine kaybetmez,platform özgürdür.
+Satıcı Gelişimini zaman damgalarına ve başarılı satış sonuçlarına göre takip edebilir.
+Yeni çıkan bir ürünü piyasada en çok satan değil en başarılı satan ve en eski zaman damgasından itibaren satan satıcı ön plana çıkabilir.
+Alıcının yaptığı yorumlar ve rate puanları blockchain üzerinde silinemez,değiştirelemez.
+*/
+
+Çözüm -1 : Politikalara Uyulmaması halinde Satıcı Blockchain üzerinde değişemez olarak değer kaybedecek dolayısıyla politikalara uyulacak
+Çözüm -2 : İşletmelere ağır yükler bindirmenin aksine satış sözleşmeleri ve prosedürlerden kurtularak yük azaltılacak
+Çözüm -3 : Yanlış bilgilendirme yapılması Satıcıyı kalıcı olarak blockchainde etkileyeceği için bu durum önlenmiş olacak.
+
+Çözüm-4 : Yüzyüze olmasa da bu sistem üzerine kurulursa Kaliteli ve gerçek satıcılar ve alıcılar arasında güven problemi olmayacak.
+Alıcı en güvenilir gördüğü ve global olarak değiştirilemez istatistiklere göre seçimini yapabilir.
+Çözüm-5 : Güvenlik-Gizlilik. Veriler Bulut tabanlarda saklanıp blockchain ile değiştirelemez olduğu kanıtlanacak,güvenlik çözülecek.
+Çözüm-6 : Evrensel bir sistem olup tüm e ticareti etkileceği için güvenlik güvenilirlik standartları olacaktır.örneğin blockchain kvkk
+Çözüm-7 : Sahte hatalı bozuk ürün satım durumunda Satıcı değiştirelemez şekilde Blockchain üzerinde saklanacak.
+Çözüm-8 : Ürün gönderiminde bir problem olursa Satıcının kargo ve genel puanı düşecek. Sattığı ürün fiyatı ucuz da olsa güvenilirlik-Ticaret faaliyeti azalacak.
+Çözüm-9 : Çözüm-10 : Çözüm :11 Bu yöntemle çözülecektir
+
+Çözüm-12 : Çözüm-13 : Çözüm-14 : Çözüm-15 : Çözüm-16 : Kargo firmasının hatalı bir davranışı sonucunda aynı şekilde satıcının puanı etkilenecek dolayısıyla
+Satıcının seçmiş olduğu kargo firması da önem kazanacak ve kargo faaliyetleri de daha dikkatli yapılmaya başlanacak.
+Örneğin az araç kapasiteli ama kusur yapmayan bir kargo firması çok araç kapasiteli ama hata yapan bir kargo firması yerine tercih edilecek.
+Satıcı puanı sadece ürün odaklı değil Kargo firmasının ürün güvenliğine de bağlı olacak.
+
+Çözüm-17:Satıcıların profilleri göz önünde olacağı için iyi profil oluşturacaklar. alıcılar arasında güven sorunlarına yol açmaz tam aksine şeffaf ve güvenilirlik sağlar.
+Çözüm-18:
+Çözüm-19: 
+
+Çözüm-20: Örneğin Yeni satıcı stres çarkını icat etti . ürünü listeletti ve popüler hale getirdi. ama parası olan ve bilinir satıcı ürünü kopyalayıp kendi ürünüymüş gibi pazarladı.
+bu durumda yeni satıcı icatı çıkaran olsa da yok oldu. Bu sistemde zaman damgası ile listelenme yapılıp marka tescili sağlanacak.
+
+Ürün Nedir:
+Neden Ürün Kullanılmalı: Ürün Ortak bir değerlendirme sağlanması ve Satıcıların güvenilir olması için kullanılmalıdır. 
+e ticaret genel bir standarta göre puanlandırılmalı ve satıcılar
+Neden blockchain: E ticaret
+Sorun Nedir : E-Ticaretteki Veri TuTarsızlığı Ve Doğruluğunun İspatlanamaması
+Çözüm bütün satıcıların aynı global standartlarına göre değerlendirmesi;
