@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seller Scan</title>
+    <title>Gittigidiyor</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -24,11 +24,23 @@
     <script src="https://cdn.jsdelivr.net/npm/alertifyjs@1.8.0/build/alertify.min.js"></script>
   </head>
   <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <div class="d-md-flex d-block flex-row mx-md-auto mx-0">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="/gittigidiyor-admin.html"><h3 class="text-white">gittigidiyor.com</h3></a>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
     <div class="container w-50">
       <div class="mt-5">
         <form class="">
           <div class="form-group">
-            <label for="name">Name</label>
+            <label for="name">Ad</label>
             <input
               readonly
               type="text"
@@ -38,7 +50,7 @@
             />
           </div>
           <div class="form-group">
-            <label for="surname">Surname</label>
+            <label for="surname">Soyad</label>
             <input
               readonly
               type="text"
@@ -58,7 +70,7 @@
             />
           </div>
           <div class="form-group">
-            <label for="store">Store Name</label>
+            <label for="store">Mağaza Adı</label>
             <input
               readonly
               type="text"
@@ -68,12 +80,12 @@
             />
           </div>
           <div class="form-group">
-            <label for="hashid">SellerScan ID</label>
+            <label for="hashid">Sellerscan ID</label>
             <input
               type="text"
               class="form-control"
               id="hashid"
-              placeholder="Please import sellerscan id"
+              placeholder="Sellerscan ID girin"
             />
             <button id="button" type="submit" class="btn btn-success mt-1">
               Update
