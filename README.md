@@ -1,4 +1,8 @@
 # 42Core - Sellerscan
+E-ticaret sitelerindeki mağazaların güvenli bir şekilde platform değiştirmesini sağlayacak SellerScan'e merhaba diyin!
+
+
+# SellerScan - Kurulumu
 
 Program nodejs üzerinde express js frameworkü kullanılarak yazıldı.
 
