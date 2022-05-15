@@ -2,7 +2,8 @@
 
 Program nodejs üzerinde express js frameworkü kullanılarak yazıldı.
 
-html - css / bootstrap
+html
+css - bootstrap
 nodejs v16.15.0 (LTS)
 
 # Windows/Mac için server kurulumu:
